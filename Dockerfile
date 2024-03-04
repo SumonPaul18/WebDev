@@ -1,3 +1,3 @@
 FROM nginx
-COPY /root/WebDev/ /usr/share/nginx/html/
+COPY . /usr/share/nginx/html/
 
