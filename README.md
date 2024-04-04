@@ -1,9 +1,10 @@
-# WebDev
-## This a Simple DepOps Project, Here we are publish a website or it could be web applications.
+
+## This is a Simple DepOps Project, Here we are publish a website or it could be web applications.
 ![Simple DevOps Diagram](DevOpsPNG.PNG)
-### But, In this steps 
-# Jenkins
-# Docker
-# Containers
-# Docker Server
+### Now, In this project we are learn how to Deploy a web applications using DevOps.
+#### 
+Our Working Tools are 
+#### Docker
+#### Jenkins
+#### Github
 
