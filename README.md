@@ -9,4 +9,5 @@
 #### 1. Docker
 #### 2. Jenkins
 #### 3. Github
+#### 4. Nginx
 
