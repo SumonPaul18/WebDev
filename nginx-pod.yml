@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  labels:
+    run: mynginx
+  name: mynginx
+spec:
+  containers:
+  - image: sumonpaul/github-actions:latest
+    name: mynginx
+    ports:
+    -  containerPort: 80
